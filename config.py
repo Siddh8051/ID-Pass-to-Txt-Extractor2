@@ -1,3 +1,5 @@
+import os
+
 api_id = 29029800
 api_hash = "0258b310e9ebb9b5155b5740d6ecf126"
 bot_token = "7251335061:AAH-s6BcjuaBoL8AMoMxbW4YIssKXvCKF7k"
